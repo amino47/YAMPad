@@ -2517,8 +2517,8 @@
 		)
 	)
 	(gr_rect
-		(start 50.00625 47.625)
-		(end 138.1125 90.4875)
+		(start 52.3875 45.24375)
+		(end 138.1125 88.10625)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -2526,6 +2526,30 @@
 		(fill none)
 		(layer "Edge.Cuts")
 		(uuid "575c34d3-dc58-4b09-a8c7-678e76158084")
+	)
+	(gr_text "Designed by Amina\n"
+		(at 119.0625 80.9625 0)
+		(layer "F.SilkS")
+		(uuid "ef1ab257-cb3f-4009-971a-cb21516c7507")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "YAMP"
+		(at 114.3 78.58125 0)
+		(layer "F.SilkS")
+		(uuid "fbd8ceaa-bf11-4a54-9410-a5b86d0426cf")
+		(effects
+			(font
+				(size 6 6)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 79.53375 54.61)
