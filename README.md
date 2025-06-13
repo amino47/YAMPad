@@ -6,10 +6,9 @@ YAMPad is a 6 key macropad running on KMK firmware with a Seeed Studio XIAO RP20
 
 
 ## BOM
-1x Seeed Studio XIAO RP2040
-1x PCB
-1x 3D Printed case
-6x Cherry MX compatible switches.
-6x keycaps
-4x M3 Screws
-
+1x Seeed Studio XIAO RP2040 <br>
+1x PCB <br>
+1x 3D Printed case <br>
+6x Cherry MX compatible switches. <br>
+6x keycaps <br>
+4x M3 Screws <br>
