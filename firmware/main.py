@@ -35,7 +35,7 @@ keyboard.keymap = [
     [KC.F1, KC.F2, KC.F3,
      KC.F4, KC.F5, KC.TG(1)],
 
-    [KC.trns, KC.up, KC.TG(0),
+    [KC.TG(2), KC.up, KC.TG(0),
      KC.left, KC.down, KC.right],
 
     [KC.MJ_TOGGLE, KC.MEDIA_PLAY_PAUSE, KC.trns,
