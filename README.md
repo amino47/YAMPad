@@ -1,13 +1,14 @@
 # YAMPad
 YAMPad is a 6 key macropad running on KMK firmware with a Seeed Studio XIAO RP2040 as the MCU. 
+It's default keymap includes layer switching, media key support and a mouse jiggler.
 ![A screenshot of the 3d model of the full case.](https://github.com/amino47/YAMPad/blob/main/case.png?raw=true)
 ![A screenshot of the PCB schematic.](https://github.com/amino47/YAMPad/blob/main/schem.png?raw=true)
 ![A screenshot of the PCB.](https://github.com/amino47/YAMPad/blob/main/circutboard.png?raw=true)
 
 # My Struggles
-One of my major struggles when designing this project was making the case, as I am very new to CAD.
-I mainly struggled with aligning the measurements and cutouts between the top and bottom sections of the case.
-I probably spent at least 40% of the time making this project on just designing the case.
+One of my major struggles when designing this project was making the case, as I am very new to CAD. 
+I mainly struggled with aligning the measurements and cutouts between the top and bottom sections of the case. 
+I probably spent at least 40% of the time making this project on just designing the case. 
 I eventually managed to align the cutout for the MCU on both pieces of the case.
 
 ## BOM
